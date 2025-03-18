@@ -38,7 +38,7 @@ Una aplicación web sencilla para gestionar y sortear un "Amigo Secreto". Permit
 
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/tuusuario/amigo-secreto.git
+   git clone https://github.com/celitaluque/amigo-secreto.git
    ```
 
 2. **Abrir el archivo `index.html` en tu navegador**
@@ -71,9 +71,6 @@ Una aplicación web sencilla para gestionar y sortear un "Amigo Secreto". Permit
 ## 👩‍💻 Autor
 
 - **Celinda Luque**
-- Docente de Diseño y Programación Web 👩‍🏫
-- [Tu enlace de GitHub o portafolio](https://github.com/tuusuario)
+- [Tu enlace de GitHub o portafolio](https://github.com/celitaluque)
 
-## 🪧 Licencia
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
